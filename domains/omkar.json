@@ -1,0 +1,11 @@
+{
+      "description": "My developer portfolio",
+      "repo": "https://github.com/Om13884/my-website.git",
+      "owner": {
+          "username": "Om13884",
+          "email": "omkar13884@gmail.com"
+      },
+      "record": {
+          "CNAME": "omkar14388.vercel.app"
+      }
+  }
